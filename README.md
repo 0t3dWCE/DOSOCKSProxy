@@ -61,6 +61,11 @@ Money.
 
 Main case of using that proxy is to reach blocked internet resources by providing ip from another country.
 Start and delete instance on DO during 1 hour costs $0.01.
+```
+https://www.digitalocean.com/help/pricing-and-billing/general/
+Do I have to pay the cost of the server every time I create a new one?
+No — you only need to pay for 1 hour of usage. Spinning up a new 512MB server just to test something for a couple of minutes will only cost you $0.01 after the hourly rate of $0.0074 is rounded to the nearest cent
+```
 
 Tested only on Ubuntu 16.04.
 If you want to add windows support - you are welcome.
