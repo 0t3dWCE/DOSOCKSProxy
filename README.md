@@ -5,7 +5,7 @@ Install
 ```
 $ virtualenv .venv && pip install requirements.txt
 
-$ python soxproxy.py -h
+(.venv)$ python soxproxy.py -h
 ```
 
 How to use:
@@ -13,7 +13,7 @@ How to use:
 2. Generate access token
 3. Run the script
 ```
-$ python soxproxy.py <do_token>
+(.venv)$ python soxproxy.py <do_token>
  |  Cooking SSH-keys
  |  SSH keys are ready!
  |  Public SSH Key is already in use on your account
