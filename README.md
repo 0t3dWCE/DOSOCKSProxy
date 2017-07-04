@@ -3,7 +3,7 @@ One-click cheap SOCKsProxy server on Digitalocean
 
 Install
 ```
-$ virtualenv .venv && pip install requirements.txt
+$ virtualenv .venv && .venv/bin/activate && pip install requirements.txt
 
 (.venv)$ python soxproxy.py -h
 ```
